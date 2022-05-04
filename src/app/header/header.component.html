@@ -1,0 +1,10 @@
+<header>
+  <div class="language-switcher">
+    <p>{{ "choose_locale" | translate }}</p>
+    <select (change)="changeLocale($event)" name="languages">
+      <option value="en-US">{{ "locale.english" | translate }}</option>
+      <option value="zh-SG">{{ "locale.chinese" | translate }}</option>
+      <option value="de">{{ "locale.german" | translate }}</option>
+    </select>
+  </div>
+</header>

@@ -1,0 +1,10 @@
+{
+  "choose_locale": "Wählen Sie Ihr Gebietsschema",
+  "locale.english": "Englisch(United States)",
+  "locale.chinese": "Chinesisch(Singapore)",
+  "locale.german": "Deutsch(Standard)",
+  "captcha_security-verification": "Sicherheitscheck",
+  "captcha_form-label": "Geben Sie das Captcha ein",
+  "captcha_form-placeholder": "Bitte geben Sie die im obigen Bild angezeigten Zeichen ein",
+  "captcha_form-button": "Vorgehen"
+}

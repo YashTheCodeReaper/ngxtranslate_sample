@@ -1,0 +1,10 @@
+{
+  "choose_locale": "Choose your locale",
+  "locale.english": "English(United States)",
+  "locale.chinese": "Chinese(Singapore)",
+  "locale.german": "German(Standard)",
+  "captcha_security-verification": "Security Verification",
+  "captcha_form-label": "Enter the captcha",
+  "captcha_form-placeholder": "Please enter the characters shown in the above image",
+  "captcha_form-button": "Proceed"
+}

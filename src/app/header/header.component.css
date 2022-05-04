@@ -1,0 +1,41 @@
+header {
+  width: 100vw;
+  height: 10vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  display: flex;
+  padding: 1rem 5rem;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.language-switcher{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+  color: #fff;
+}
+
+.language-switcher p{
+  font-weight: 800;
+  font-size: 1.8rem;
+}
+
+select{
+  background: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: solid 1px #fff;
+  color: #793596;
+  font-family: inherit;
+  font-size: 1.6rem;
+  font-weight: 800;
+  outline: none;
+}

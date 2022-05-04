@@ -1,0 +1,10 @@
+{
+  "choose_locale": "选择您的语言环境",
+  "locale.english": "英语(United States)",
+  "locale.chinese": "中国人(Singapore)",
+  "locale.german": "德语(Standard)",
+  "captcha_security-verification": "安全验证",
+  "captcha_form-label": "输入验证码",
+  "captcha_form-placeholder": "请输入上图中显示的字符",
+  "captcha_form-button": "继续"
+}

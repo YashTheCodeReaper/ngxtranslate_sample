@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  width: 100vw;
+  overflow-x: hidden;
+  height: 100vh;
+  background-image: linear-gradient(
+    to right top,
+    #8d00e8,
+    #ac00ed,
+    #c900f1,
+    #e500f4,
+    #ff00f7
+  );
+  color: #fff;
+}
